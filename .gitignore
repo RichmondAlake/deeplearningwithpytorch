@@ -2,3 +2,4 @@
 /images
 .idea
 .ipynb_checkpoints
+./idea/vcs.xml
